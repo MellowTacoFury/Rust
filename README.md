@@ -1,5 +1,5 @@
 # Scene renderer
-
+Emma Fecher
 This project provides a tiny, deterministic scene renderer used as the base
 repository for the course. It models scenes composed of rectangles and renders
 them to a line-based string output.
